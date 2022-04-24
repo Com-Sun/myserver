@@ -238,3 +238,19 @@ $ curl -v -F "upload=@msg.json" http://test-vm.com/post
 ## 참고
 
 * curl 등으로 실제 http 서버가 어떻게 응답을 하고 있는지 확인하면서 진행하면 좋을 것 같습니다.
+
+![](./img/1.PNG)
+
+![](./img/2.PNG)
+
+![](./img/3.PNG)
+
+![](./img/4.PNG)
+
+![](./img/5.PNG)
+
+![](./img/8.PNG)
+
+![](./img/6.PNG)
+
+![](./img/7.PNG)
